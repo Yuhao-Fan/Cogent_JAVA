@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+/Users/fan/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+367120232.index
