@@ -9,7 +9,7 @@ public class Operators {
 		
 
 	}
-	public static void eight() {
+	static void eight() {
 		int a = 0 ;
 		a++;
 		a=a+1;
