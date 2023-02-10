@@ -10,8 +10,6 @@ public class Library {
 	int bookSold() {
 		System.out.println(sold);
 		return sold;
-		
-		
 	}
 
 }

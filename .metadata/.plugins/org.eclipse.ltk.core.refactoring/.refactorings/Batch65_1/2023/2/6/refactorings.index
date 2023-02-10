@@ -1,2 +1,20 @@
 1675872301734	Rename type 'BankApp'
 1675872323786	Rename type 'TesterBank'
+1675875325216	Rename package 'parameters'
+1675875645403	Copy compilation units
+1675877233734	Rename package 'com.cogent.retunType'
+1675878034695	Rename package 'com.cogent.retuntype'
+1675878239828	Copy compilation units
+1675878391766	Rename type 'Motor'
+1675878440105	Rename compilation unit 'TesterMotor.java'
+1675884553614	Copy compilation unit
+1675885212033	Copy compilation units
+1675888894931	Copy package
+1675962195438	Rename type 'Tester'
+1675970378346	Copy package
+1675971034160	Copy compilation units
+1676048641885	Rename package 'com.cogent.inheretence'
+1676048961340	Copy package
+1676048989000	Rename type 'Car'
+1676049007165	Rename type 'Vehicle'
+1676049017320	Copy compilation unit
