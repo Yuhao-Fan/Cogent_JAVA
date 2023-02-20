@@ -1,2 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.cogent.bankTask.Library"/>
+    <fullyQualifiedTypeName name="com.cogent.control.TesterVote"/>
+    <fullyQualifiedTypeName name="javax.imageio.metadata.IIOMetadataFormatImpl"/>
+    <fullyQualifiedTypeName name="com.cogent.oop.Employee"/>
+    <fullyQualifiedTypeName name="constructor.Library"/>
+    <fullyQualifiedTypeName name="com.cogent.constructor.Library"/>
+    <fullyQualifiedTypeName name="com.cogent.staticmethods.Employee"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.ThreadPoolExecutor.DiscardOldestPolicy"/>
+    <fullyQualifiedTypeName name="exam.ExamPortal"/>
+    <fullyQualifiedTypeName name="com.cogent.inheritence2.Washing"/>
+    <fullyQualifiedTypeName name="java.util.stream.IntStream"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="code.ds"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="com.cogent.aabstractconcept.Employee"/>
+    <fullyQualifiedTypeName name="p1.B"/>
+    <fullyQualifiedTypeName name="p1.A"/>
+    <fullyQualifiedTypeName name="abstract_demo.SW_Dept"/>
+    <fullyQualifiedTypeName name="abstract_demo.Employee"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="myexception.VoterApp"/>
+    <fullyQualifiedTypeName name="myexception.AgeException"/>
+    <fullyQualifiedTypeName name="java.lang.AutoCloseable"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="getter.HRTeam"/>
+    <fullyQualifiedTypeName name="getter.Employee"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="java.lang.Float"/>
+</qualifiedTypeNameHistroy>
