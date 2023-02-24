@@ -134,7 +134,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="Servlet_Tomcat" path="/Servlet_Tomcat" reloadable="true" source="org.eclipse.jst.jee.server:Servlet_Tomcat"/><Context docBase="batch64servlet3" path="/batch64servlet3" reloadable="true" source="org.eclipse.jst.jee.server:batch64servlet3"/><Context docBase="Bank" path="/Bank" reloadable="true" source="org.eclipse.jst.jee.server:Bank"/><Context docBase="war" path="/war" reloadable="true" source="org.eclipse.jst.jee.server:war"/></Host>
+      <Context docBase="Servlet_Tomcat" path="/Servlet_Tomcat" reloadable="true" source="org.eclipse.jst.jee.server:Servlet_Tomcat"/><Context docBase="batch64servlet3" path="/batch64servlet3" reloadable="true" source="org.eclipse.jst.jee.server:batch64servlet3"/><Context docBase="Bank" path="/Bank" reloadable="true" source="org.eclipse.jst.jee.server:Bank"/><Context docBase="war" path="/war" reloadable="true" source="org.eclipse.jst.jee.server:war"/><Context docBase="Week3_JDBC" path="/Week3_JDBC" reloadable="true" source="org.eclipse.jst.jee.server:Week3_JDBC"/></Host>
     </Engine>
   </Service>
 </Server>
