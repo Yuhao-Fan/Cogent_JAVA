@@ -1,23 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.cogent.staticmethods.Employee"/>
-    <fullyQualifiedTypeName name="java.util.concurrent.ThreadPoolExecutor.DiscardOldestPolicy"/>
-    <fullyQualifiedTypeName name="exam.ExamPortal"/>
-    <fullyQualifiedTypeName name="com.cogent.inheritence2.Washing"/>
-    <fullyQualifiedTypeName name="java.util.stream.IntStream"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
-    <fullyQualifiedTypeName name="java.lang.Object"/>
-    <fullyQualifiedTypeName name="code.ds"/>
-    <fullyQualifiedTypeName name="com.cogent.aabstractconcept.Employee"/>
-    <fullyQualifiedTypeName name="p1.B"/>
-    <fullyQualifiedTypeName name="p1.A"/>
-    <fullyQualifiedTypeName name="abstract_demo.SW_Dept"/>
-    <fullyQualifiedTypeName name="abstract_demo.Employee"/>
-    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
-    <fullyQualifiedTypeName name="myexception.VoterApp"/>
-    <fullyQualifiedTypeName name="myexception.AgeException"/>
-    <fullyQualifiedTypeName name="java.lang.AutoCloseable"/>
-    <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="getter.HRTeam"/>
     <fullyQualifiedTypeName name="getter.Employee"/>
     <fullyQualifiedTypeName name="java.util.LinkedList"/>
@@ -60,4 +42,22 @@
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.LinkedHashMap"/>
     <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="autowired.Person"/>
+    <fullyQualifiedTypeName name="autowired.Customer"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="autowired.MyDependency"/>
+    <fullyQualifiedTypeName name="autowired.MyClass"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.cogent.Batch65_SpringBootOne.Batch65SpringBootOneApplication"/>
+    <fullyQualifiedTypeName name="com.cogent.Batch65_SpringBootOne.controller.Controller"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+    <fullyQualifiedTypeName name="com.cogent.Batch65_SpringBootTwo.repo.PerformerRepository"/>
+    <fullyQualifiedTypeName name="com.cogent.Batch65_SpringBootTwo.entity.Performer"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration"/>
 </qualifiedTypeNameHistroy>
