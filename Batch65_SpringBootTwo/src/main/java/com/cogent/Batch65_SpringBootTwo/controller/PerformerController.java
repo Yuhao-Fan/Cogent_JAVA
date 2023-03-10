@@ -3,12 +3,14 @@ package com.cogent.Batch65_SpringBootTwo.controller;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.cogent.Batch65_SpringBootTwo.entity.Performer;
@@ -35,19 +37,27 @@ public class PerformerController {
 
 
 	@GetMapping("/get")
+	@ResponseBody
 	public List<Performer> getPerformers() {
 		
 		return performerRepository.findAll();
+		
+	}
+	@GetMapping("/hi")  //url endpoint for API
+	public String hello() {
+		
+		return "<h1>Hello World</h1>";
 		
 	}
 
 
 
 	@PutMapping("/put")  
-	private Performer updatePerformer(@RequestBody Performer newPerformer)   
+	@ResponseBody
+	private  Performer updatePerformer(@RequestBody Performer newPerformer)   
 	{  
-		performerRepository.save(newPerformer);  
-		return newPerformer;  
+		
+		return performerRepository.save(newPerformer);  
 	}  
 
 	@DeleteMapping("/delete/{id}")
@@ -55,6 +65,7 @@ public class PerformerController {
 	{
 		performerRepository.deleteById(empid);
 	}
+
 
 
 

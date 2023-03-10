@@ -1,10 +1,12 @@
 package com.cogent.Batch65_SpringBootOne.entity;
 
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
+import jakarta.validation.constraints.NotBlank;
 
 //few Additional Annotation needed to make it 
 //complete and add Power to it
@@ -16,8 +18,13 @@ public class Employee {
 	@Id                      //primary Key
 	@GeneratedValue(strategy = GenerationType.AUTO)  //
 	int id;
-	String name;
+	@NotBlank(message = "Name is mandatory")
+    String name;
+    
+    @NotBlank(message = "Email is mandatory")
 	String dept;
+
+	
 	float salary;
 	
 	public int getId() {
